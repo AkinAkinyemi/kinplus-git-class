@@ -1,3 +1,3 @@
 # kinplus-git-class
 
-- Add your name to this repository
+Class members should add their name to this repository
